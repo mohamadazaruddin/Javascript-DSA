@@ -1,0 +1,29 @@
+1. **Reverse a String**: Write a function that takes a string as input and returns the string reversed. ✅
+
+2. **Fibonacci Sequence**: Write a function that returns the nth Fibonacci number. ✅
+
+3. **Palindrome Check**: Create a function that checks if a given string is a palindrome.✅
+
+4. **Anagram Check**: Write a function that checks if two strings are anagrams of each other.✅
+
+5. **Find the Largest Number in an Array**: Implement a function that returns the largest number from an array of numbers. - ✅
+
+6. **Find the Smallest Number in an Array**: Implement a function that returns the smallest number from an array of numbers. ✅
+
+7. **Remove Duplicates from an Array**: Write a function that removes duplicate values from an array.
+
+8. **Flatten an Array**: Create a function that flattens a nested array into a single array.
+
+9. **Sum of Array Elements**: Write a function that calculates the sum of all elements in an array.
+
+10. **Count Vowels in a String**: Implement a function that counts the number of vowels in a given string.
+
+11. **Merge Two Sorted Arrays**: Write a function that merges two sorted arrays into a single sorted array.
+
+12. **Find the Missing Number**: Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one number that is missing from the array.
+
+13. **Debounce Function**: Implement a debounce function that limits the rate at which a function can fire.
+
+14. **Throttle Function**: Create a throttle function that ensures a function is only called at most once in a specified time interval.
+
+15. **Implement a Promise**: Write a simple implementation of a Promise.
