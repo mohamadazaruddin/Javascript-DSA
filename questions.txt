@@ -1,0 +1,55 @@
+Arrays
+1. Find the maximum and minimum element in an array
+2. Reverse an array
+3. Find the sum of all elements in an array
+4. Find the second largest element in an array
+5. Remove duplicates from a sorted array
+6. Left rotate an array by one place
+7. Move all zeroes to end of array
+8. Check if array is sorted
+
+Strings
+9. Reverse a string
+10. Check if a string is a palindrome
+11. Count vowels and consonants in a string
+12. Find duplicate characters in a string
+13. Check if two strings are anagrams
+14. Find the first non-repeating character in a string
+
+Searching & Sorting
+15. Linear search in an array
+16. Binary search in a sorted array
+17. Bubble sort
+18. Selection sort
+19. Insertion sort
+
+Linked Lists
+20. Implement a singly linked list
+21. Insert a node at the beginning/end of a linked list
+22. Delete a node from a linked list
+23. Find the length of a linked list
+24. Reverse a linked list
+
+Stacks & Queues
+25. Implement a stack using arrays
+26. Implement a queue using arrays
+27. Check for balanced parentheses in an expression
+
+Recursion & Basic Math
+28. Find factorial of a number (recursion)
+29. Print Fibonacci sequence (recursion)
+30. Find GCD of two numbers
+31. Find the power of a number (x^n)
+
+Miscellaneous
+32. Find the largest element in each row of a 2D array
+33. Transpose a matrix
+34. Count the number of digits in a number
+35. Find the sum of digits of a number
+
+Bonus: Entry-Level Coding Challenges
+36. Merge two sorted arrays
+37. Find intersection of two arrays
+38. Find missing number in an array of 1 to N
+39. Remove duplicates from an unsorted array
+40. Find common elements in three sorted arrays
